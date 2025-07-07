@@ -1,3 +1,9 @@
+# Silent Compass for Railways
+# Decentralized Railway Navigation Without Internet or GPS
+# Copyright (c) 2025 Ali Reza Farshad Fard
+# GaiaLink Intelligence Systems Inc.
+# Licensed under the MIT License
+
 class Node:
     """Rail node with local field sensing & neighbor awareness."""
     def __init__(self, name, field_value):
