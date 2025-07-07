@@ -1,3 +1,9 @@
+# Silent Compass for Railways
+# Decentralized Railway Navigation Without Internet or GPS
+# Copyright (c) 2025 Ali Reza Farshad Fard
+# GaiaLink Intelligence Systems Inc.
+# Licensed under the MIT License
+
 import json, random, os, networkx as nx, matplotlib.pyplot as plt
 from node import Node
 
